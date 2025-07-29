@@ -1,0 +1,27 @@
+Static {
+
+    color: black;
+    border: solid #d3d3d3;
+
+}
+
+#msg1 {
+
+    background: aquamarine;
+
+}
+
+#msg2 {
+    background: yellow;
+
+}
+
+#btn1 {
+    color: white;
+    background: green;
+}
+
+#btn2 {
+    color: white;
+    background: red;
+}
