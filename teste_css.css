@@ -1,0 +1,60 @@
+Screen {
+
+    background: rgb(41, 117, 92);
+
+}
+
+Header {
+    dock: top;
+    height: 3;
+    align: center middle;
+    background: rgb(1, 48, 1);
+    color: white;
+    margin-bottom: 1;
+}
+
+#static1 {
+
+    background: rgb(69, 226, 174);
+    color: black;
+    content-align: center middle;
+    opacity: 75%;
+    padding: 3;
+    margin-right: 3;
+    margin-left: 3;
+    margin-bottom: 1;
+
+}
+
+Input {
+    align: center middle;
+    width: 100%;
+    margin-right: 3;
+    margin-left: 3;
+    margin-bottom: 1;
+}
+
+
+
+#textarea {
+    margin-right: 3;
+    margin-left: 3;
+    margin-bottom: 2;
+}
+
+HorizontalGroup {
+    align: center middle;
+    margin-bottom: 1;
+}
+
+.btn {
+
+    width: auto;
+    margin-right: 3;
+}
+
+Footer {
+    content-align: center middle;
+    background: rgb(1, 48, 1);
+    color: white;
+}
