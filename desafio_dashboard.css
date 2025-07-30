@@ -1,0 +1,18 @@
+Screen {
+    layout: horizontal;
+    padding: 5;
+
+}
+
+Static {
+    /* width: 50%; */
+    /* margin: 3; */
+    background: white;
+    color: black;
+    width: auto;
+    height: auto;
+}
+
+Button {
+    width: auto;
+}
