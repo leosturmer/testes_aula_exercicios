@@ -1,18 +1,38 @@
 Screen {
-    layout: horizontal;
     padding: 5;
+    background: rgb(37, 182, 182);
+}
 
+Input {
+    width: 50%;
+    align: center middle;
 }
 
 Static {
-    /* width: 50%; */
-    /* margin: 3; */
-    background: white;
+    width: 50%;
+    margin: 1;
+    padding: 2;
+}
+
+#st_principal {     
+    background: rgb(0, 0, 0);
+    color: white;
+}
+
+#st_segundo {
+    background: aquamarine;
     color: black;
-    width: auto;
-    height: auto;
 }
 
 Button {
+    margin: 1;
     width: auto;
+}
+
+HorizontalGroup {
+    align: center middle;
+}
+
+VerticalGroup {
+    align: center middle;
 }
